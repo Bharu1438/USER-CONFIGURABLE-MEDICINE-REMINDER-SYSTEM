@@ -1,0 +1,15 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\delay.o"
+".\lcd.o"
+".\main.o"
+".\keypad.o"
+".\buzzer.o"
+".\display_time.o"
+".\rtc.o"
+".\setup_meditionadd.o"
+".\time_check.o"
+--strict --scatter ".\medition_mini.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\medition_mini.map" -o .\medition_mini.axf

@@ -1,0 +1,17 @@
+.\main.o: main.c
+.\main.o: C:\Keil\ARM\Inc\Philips\lpc214x.h
+.\main.o: delay_header.h
+.\main.o: lcd_header.h
+.\main.o: keypad_header.h
+.\main.o: buzzer_header.h
+.\main.o: display_time.h
+.\main.o: rtc.h
+.\main.o: setup_meditionAdd.h
+.\main.o: lcd_header.h
+.\main.o: keypad_header.h
+.\main.o: delay_header.h
+.\main.o: display_time.h
+.\main.o: rtc.h
+.\main.o: time_check.h
+.\main.o: lcd_header.h
+.\main.o: buzzer_header.h

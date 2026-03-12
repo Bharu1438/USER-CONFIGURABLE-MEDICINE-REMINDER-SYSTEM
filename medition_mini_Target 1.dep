@@ -1,0 +1,54 @@
+Dependencies for Project 'medition_mini', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x532C14EA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\delay.c)(0x69B29C1B)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\delay.o --omf_browse .\delay.crf --depend .\delay.d)
+F (.\lcd.c)(0x69B299C7)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\lcd.o --omf_browse .\lcd.crf --depend .\lcd.d)
+I (lcd_header.h)(0x69B299C7)
+I (C:\Keil\ARM\Inc\Philips\lpc214x.h)(0x532C1500)
+I (delay_header.h)(0x69B29891)
+F (.\main.c)(0x69B29FED)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\Inc\Philips\lpc214x.h)(0x532C1500)
+I (delay_header.h)(0x69B29891)
+I (lcd_header.h)(0x69B299C7)
+I (keypad_header.h)(0x69B299C7)
+I (buzzer_header.h)(0x69B29804)
+I (display_time.h)(0x69B29C10)
+I (rtc.h)(0x69B29D55)
+I (setup_meditionAdd.h)(0x69B29F13)
+I (time_check.h)(0x69B29F13)
+F (.\keypad.c)(0x69B29A29)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\keypad.o --omf_browse .\keypad.crf --depend .\keypad.d)
+I (C:\Keil\ARM\Inc\Philips\lpc214x.h)(0x532C1500)
+I (delay_header.h)(0x69B29891)
+I (keypad_header.h)(0x69B299C7)
+F (.\buzzer.c)(0x69B29BFF)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\buzzer.o --omf_browse .\buzzer.crf --depend .\buzzer.d)
+I (C:\Keil\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
+I (buzzer_header.h)(0x69B29804)
+I (lcd_header.h)(0x69B299C7)
+I (delay_header.h)(0x69B29891)
+F (.\display_time.c)(0x69B2C418)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\display_time.o --omf_browse .\display_time.crf --depend .\display_time.d)
+I (C:\Keil\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
+I (delay_header.h)(0x69B29891)
+I (lcd_header.h)(0x69B299C7)
+I (keypad_header.h)(0x69B299C7)
+F (.\rtc.c)(0x69B29E00)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\rtc.o --omf_browse .\rtc.crf --depend .\rtc.d)
+I (C:\Keil\ARM\Inc\Philips\lpc214x.h)(0x532C1500)
+I (rtc.h)(0x69B29D55)
+F (.\main_backup.c)(0x69ABCB45)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main_backup.o --omf_browse .\main_backup.crf --depend .\main_backup.d)
+I (C:\Keil\ARM\Inc\Philips\lpc214x.h)(0x532C1500)
+I (delay_header.h)(0x69A57114)
+I (lcd_header.h)(0x69A56EA1)
+I (keypad_header.h)(0x69A575A9)
+I (buzzer_header.h)(0x69A56C06)
+I (display_time.h)(0x69A56A47)
+I (rtc.h)(0x69A57744)
+F (.\setup_MeditionAdd.c)(0x69B2EB05)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\setup_meditionadd.o --omf_browse .\setup_meditionadd.crf --depend .\setup_meditionadd.d)
+I (setup_meditionAdd.h)(0x69B29F13)
+I (C:\Keil\ARM\Inc\Philips\lpc214x.h)(0x532C1500)
+I (lcd_header.h)(0x69B299C7)
+I (keypad_header.h)(0x69B299C7)
+I (delay_header.h)(0x69B29891)
+I (display_time.h)(0x69B29C10)
+I (rtc.h)(0x69B29D55)
+F (.\time_check.c)(0x69B29F2B)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\time_check.o --omf_browse .\time_check.crf --depend .\time_check.d)
+I (time_check.h)(0x69B29F13)
+I (lcd_header.h)(0x69B299C7)
+I (buzzer_header.h)(0x69B29804)

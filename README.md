@@ -51,7 +51,7 @@ This schematic shows the **complete hardware connections of the mini project**, 
 
 ### Demo
 
-[▶ Watch Demo](Demo.mp4)
+[▶ Watch Demo](images/Demo.mp4)
 
 This video demonstrates the **working of the Medicine Reminder System**, including menu navigation, time configuration, adding medicine slots, and buzzer alert when the scheduled time occurs.
 
@@ -116,5 +116,6 @@ When the **RTC time matches a configured medicine slot**, the system displays a 
 ## Author
 
 J Bhargava Satish
+
 
 

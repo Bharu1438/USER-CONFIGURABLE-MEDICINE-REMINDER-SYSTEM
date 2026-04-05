@@ -59,7 +59,7 @@ This video demonstrates the **working of the Medicine Reminder System**, includi
 
 ### 🔢 Menu Display
 
-![Menu Display](images/menu_display.jpg)
+![Menu Display](images/menu_display1.jpg)
 
 This screen shows the **main configuration menu displayed on the LCD** when the user enters setup mode.
 
@@ -67,7 +67,7 @@ This screen shows the **main configuration menu displayed on the LCD** when the 
 
 ### 📅 Date Edit Screen
 
-![Date Edit](images/date_edit.png)
+![Date Edit](images/date_edit1.png)
 
 This interface allows the user to **edit the date fields such as DD (date), MM (month), and YYYY (year)**.
 
@@ -75,7 +75,7 @@ This interface allows the user to **edit the date fields such as DD (date), MM (
 
 ### ☀️ Day Selection
 
-![Day Selection](images/day_of_week.jpg)
+![Day Selection](images/day_of_week1.jpg)
 
 This screen allows the user to **select the current day of the week** for the RTC configuration.
 
@@ -83,7 +83,7 @@ This screen allows the user to **select the current day of the week** for the RT
 
 ### 🕒 Time Edit Screen
 
-![Time Edit](images/time_edit.jpg)
+![Time Edit](images/time_edit1.jpg)
 
 This screen allows the user to **modify the time values such as hours, minutes, and seconds**.
 
@@ -91,7 +91,7 @@ This screen allows the user to **modify the time values such as hours, minutes, 
 
 ### ➕ Add Medicine Slot
 
-![Add Slot](images/add_slot.jpg)
+![Add Slot](images/add_slot1.jpg)
 
 This interface allows the user to **add a medicine reminder time slot**. The system supports up to **five reminder slots**.
 
@@ -99,7 +99,7 @@ This interface allows the user to **add a medicine reminder time slot**. The sys
 
 ### ➕ Add Another Slot
 
-![Add More](images/add_more.jpg)
+![Add More](images/add_more1.jpg)
 
 After adding a reminder slot, the system asks the user **whether to add another slot or exit the configuration**.
 
@@ -107,7 +107,7 @@ After adding a reminder slot, the system asks the user **whether to add another 
 
 ### 🚨 Medicine Alert
 
-![Medicine Alert](images/medicine_alert.jpg)
+![Medicine Alert](images/medicine_alert1.jpg)
 
 When the **RTC time matches a configured medicine slot**, the system displays a **“Take Medicine Now” message and activates the buzzer**.
 

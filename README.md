@@ -33,7 +33,7 @@ It reminds users to take medicine at scheduled times using an **LCD display and 
 
 ## 🌄 Project Images
 
-### Block Diagram
+### ⏺️ Block Diagram
 
 ![Block Diagram](images/block_diagram.jpg)
 
@@ -41,7 +41,7 @@ This diagram shows how the **LPC2148 microcontroller is connected with the LCD, 
 
 ---
 
-### Circuit Schematic
+### 🔌 Circuit Schematic
 
 ![Circuit Schematic](images/circuit_schematic.jpg)
 
@@ -49,7 +49,7 @@ This schematic shows the **complete hardware connections of the mini project**, 
 
 ---
 
-### Demo
+### ▶️ Demo
 
 [▶ Watch Demo](images/Demo.mp4)
 
@@ -57,7 +57,7 @@ This video demonstrates the **working of the Medicine Reminder System**, includi
 
 ---
 
-### Menu Display
+### 🔢 Menu Display
 
 ![Menu Display](images/menu_display.jpg)
 
@@ -65,7 +65,7 @@ This screen shows the **main configuration menu displayed on the LCD** when the 
 
 ---
 
-### Date Edit Screen
+### 📅 Date Edit Screen
 
 ![Date Edit](images/date_edit.png)
 
@@ -73,7 +73,7 @@ This interface allows the user to **edit the date fields such as DD (date), MM (
 
 ---
 
-### Day Selection
+### ☀️ Day Selection
 
 ![Day Selection](images/day_of_week.jpg)
 
@@ -81,7 +81,7 @@ This screen allows the user to **select the current day of the week** for the RT
 
 ---
 
-### Time Edit Screen
+### 🕒 Time Edit Screen
 
 ![Time Edit](images/time_edit.jpg)
 
@@ -89,7 +89,7 @@ This screen allows the user to **modify the time values such as hours, minutes, 
 
 ---
 
-### Add Medicine Slot
+### ➕ Add Medicine Slot
 
 ![Add Slot](images/add_slot.jpg)
 
@@ -97,7 +97,7 @@ This interface allows the user to **add a medicine reminder time slot**. The sys
 
 ---
 
-### Add Another Slot
+### ➕ Add Another Slot
 
 ![Add More](images/add_more.jpg)
 
@@ -105,7 +105,7 @@ After adding a reminder slot, the system asks the user **whether to add another 
 
 ---
 
-### Medicine Alert
+### 🚨 Medicine Alert
 
 ![Medicine Alert](images/medicine_alert.jpg)
 

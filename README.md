@@ -1,9 +1,9 @@
-# Medicine Reminder System
+# 💊 Medicine Reminder System
 
 This project is an embedded system developed using the **LPC2148 ARM7 microcontroller**.  
 It reminds users to take medicine at scheduled times using an **LCD display and buzzer alert**.
 
-## Features
+## ✨ Features
 
 - Real Time Clock (RTC) based reminder
 - User configurable date and time
@@ -12,7 +12,7 @@ It reminds users to take medicine at scheduled times using an **LCD display and 
 - Keypad based user input
 - Buzzer alert when medicine time occurs
 
-## Hardware Used
+## 💻 Hardware Used
 
 - LPC2148 Microcontroller
 - 16x2 LCD
@@ -20,7 +20,7 @@ It reminds users to take medicine at scheduled times using an **LCD display and 
 - Buzzer
 - Interrupt Switches
 
-## How It Works
+## ⏳ How It Works
 
 1. User presses the setup switch to enter the configuration menu.
 2. User sets the **date, day, and time** using the keypad.
@@ -31,7 +31,7 @@ It reminds users to take medicine at scheduled times using an **LCD display and 
 
 ---
 
-## Project Images
+## 🌄 Project Images
 
 ### Block Diagram
 

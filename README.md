@@ -35,7 +35,7 @@ It reminds users to take medicine at scheduled times using an **LCD display and 
 
 ### ⏺️ Block Diagram
 
-![Block Diagram](images/block_diagram.jpg)
+![Block Diagram](images/block_diagram1.jpg)
 
 This diagram shows how the **LPC2148 microcontroller is connected with the LCD, keypad, buzzer, and interrupt switches** used in the system.
 
@@ -113,7 +113,7 @@ When the **RTC time matches a configured medicine slot**, the system displays a 
 
 ---
 
-## Author
+## 👩🏻‍💻 Author
 
 J Bhargava Satish
 

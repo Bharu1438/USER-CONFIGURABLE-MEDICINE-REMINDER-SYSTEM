@@ -43,7 +43,7 @@ This diagram shows how the **LPC2148 microcontroller is connected with the LCD, 
 
 ### 🔌 Circuit Schematic
 
-![Circuit Schematic](images/circuit_schematic.jpg)
+![Circuit Schematic](images/circuit_schematic1.jpg)
 
 This schematic shows the **complete hardware connections of the mini project**, including the LPC2148 microcontroller, LCD, keypad interface, RTC configuration, and buzzer circuit.
 
